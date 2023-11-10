@@ -2,7 +2,6 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 
-// Title component for display logo
 const Title = () => (
   <a href="/">
     <img
@@ -14,10 +13,8 @@ const Title = () => (
   </a>
 );
 
-
-// Header component for header section: Logo, Nav Items
 const Header = () => {
-  // use useState for user logged in or logged out
+ 
   const [isLoggedin, setIsLoggedin] = useState(true);
   const navigate = useNavigate();
   return (
