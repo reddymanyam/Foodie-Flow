@@ -1,6 +1,3 @@
-// ## Namaste React Course by Akshay Saini
-// # Chapter 07 - Finding the Path
-
 import React from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./components/Header";
@@ -10,23 +7,20 @@ import About from "./components/About";
 import Error from "./components/Error";
 import Contact from "./components/contact";
 import RestaurantMenu from "./components/RestaurantMenu";
-import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom"; // for routing our page import createBrowserRouter and RouterProvider for providing router & Outlet for children component for nested routing
+import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom"; 
 
 
-       
-
-// AppLayout component to render: Header, Outlet(it contain children component like body, About, Restaurant Menu etc) and Footer Component
 const AppLayout = () => {
   return (
-    <React.Fragment>
+    <>
       <Header />
       <Outlet />
       <Footer />
-    </React.Fragment>
+    </>
   );
 };
 
-// call createBrowserRouter for routing different pages
+
 const appRouter = createBrowserRouter([
   {
     path: "/", // show path for routing
