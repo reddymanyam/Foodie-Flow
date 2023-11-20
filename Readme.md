@@ -7,11 +7,14 @@ Foodie Flow requires npm for installation. Follow these steps:
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
 3. Start the app with `npm start`.
+4. ![image](https://github.com/reddymanyam/Foodie-Flow/assets/142713295/71ae597b-9c55-4cf9-bdbf-b7d0507764bf)
 
-Parcel comes with a built-in development server that supports hot module replacement (HMR). This allows developers to see changes in real-time without manually refreshing the browser.![image](https://github.com/reddymanyam/Foodie-Flow/assets/142713295/71ae597b-9c55-4cf9-bdbf-b7d0507764bf)
-used Bable as Transpiler![image](https://github.com/reddymanyam/Foodie-Flow/assets/142713295/a8549be3-0e5d-4d10-840c-77b8d446e7c9)
-For SPA(single page applications) used routers, imported from the react-router-dom,<br>
+Parcel comes with a built-in development server that supports hot module replacement (HMR). This allows developers to see changes in real-time without manually refreshing the browser.
+### Babel:
+Bable is a JavaScript compiler that allows you to use the latest ECMAScript features (ES6 and beyond) in your code, even if they are not yet supported by all browsers. It translates modern JavaScript code into an older version that is widely supported
 
+### React Router:
+React Router is a popular routing library for React applications. It enables the navigation between different components in a React application, providing a seamless user experience. React Router helps you manage the application's URL and ensures that the UI stays in sync with the URL. It is commonly used in single-page applications (SPAs) built with React.
 ### useState
 In this project, we utilize the `useState` hook from React to manage local state within functional components. It provides a concise way to handle component-level state without the need for class components.<br> 
 import React, { useState } from 'react';<br>
