@@ -7,7 +7,8 @@ Foodie Flow requires npm for installation. Follow these steps:
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
 3. Start the app with `npm start`.
-Created with the help of parcel Bundler and npm package ![image](https://github.com/reddymanyam/Foodie-Flow/assets/142713295/71ae597b-9c55-4cf9-bdbf-b7d0507764bf)
+
+Parcel comes with a built-in development server that supports hot module replacement (HMR). This allows developers to see changes in real-time without manually refreshing the browser.![image](https://github.com/reddymanyam/Foodie-Flow/assets/142713295/71ae597b-9c55-4cf9-bdbf-b7d0507764bf)
 used Bable as Transpiler![image](https://github.com/reddymanyam/Foodie-Flow/assets/142713295/a8549be3-0e5d-4d10-840c-77b8d446e7c9)
 For SPA(single page applications) used routers, imported from the react-router-dom,<br>
 
