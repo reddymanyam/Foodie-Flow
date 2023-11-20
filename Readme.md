@@ -13,19 +13,11 @@ Parcel comes with a built-in development server that supports hot module replace
 - Babel: Transpiles modern JavaScript for cross-browser compatibility.
 - React Router: Facilitates client-side routing in the React application.
 
-### useState
-In this project, we utilize the `useState` hook from React to manage local state within functional components. It provides a concise way to handle component-level state without the need for class components.<br> 
-import React, { useState } from 'react';<br>
+## React Hooks Used
 
-### useEffect
-The useEffect hook is employed for handling side effects in functional components. It allows us to perform actions after the component has rendered, such as data fetching or interacting with the DOM.<br>
+- `useState`: Manages state in functional components
+- `useEffect`: Handles side effects and lifecycle events
+- `useParams`: Extracts parameters from React Router
 
-
-### useParams
-For handling route parameters in a React Router-enabled application, we use the useParams hook from react-router-dom<br>
-import { useParams } from 'react-router-dom';
-
-
-
-The final result of this page looks like below
+### The final result of this page looks like below
 <img width="909" alt="Screenshot 2023-11-10 164241" src="https://github.com/reddymanyam/Foodie-Flow/assets/142713295/ce00ddb6-06e6-4d1a-9540-3e615b594bab">
