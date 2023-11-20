@@ -1,5 +1,13 @@
 # Foodie-Flow
-This Web Application is created by using HTML,Css,Javascript and React.js<br>
+## Technologies Used
+- HTML: Markup language for structuring the application
+- CSS: Stylesheet language for designing the user interface
+- JavaScript (ES6+): Core language for application logic
+- React with Babel: Building user interfaces with modern JavaScript features
+- React Router: Enabling client-side routing in the React application
+- React Hooks (`useState`, `useEffect`): Managing state and lifecycle in functional components
+- `useParams`: Extracting parameters from React Router
+
 ## Installation Instructions
 
 Foodie Flow requires npm for installation. Follow these steps:
