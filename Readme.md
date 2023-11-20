@@ -5,7 +5,7 @@ used Bable as Transpiler![image](https://github.com/reddymanyam/Foodie-Flow/asse
 For SPA(single page applications) used routers, imported from the react-router-dom,<br>
 
 ### useState
-In this project, we utilize the `useState` hook from React to manage local state within functional components. It provides a concise way to handle component-level state without the need for class components. 
+In this project, we utilize the `useState` hook from React to manage local state within functional components. It provides a concise way to handle component-level state without the need for class components.<br> 
 import React, { useState } from 'react';<br>
 
 ### useEffect
