@@ -1,6 +1,3 @@
-// ## Namaste React Course by Akshay Saini
-// # Chapter 07 - Finding the Path
-
 import React from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./components/Header";
@@ -10,8 +7,7 @@ import About from "./components/About";
 import Error from "./components/Error";
 import Contact from "./components/contact";
 import RestaurantMenu from "./components/RestaurantMenu";
-import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom"; // for routing our page import createBrowserRouter and RouterProvider for providing router & Outlet for children component for nested routing
-
+import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom"; 
 
        
 
