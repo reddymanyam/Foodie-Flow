@@ -7,7 +7,7 @@ const Title = () => (
   <a href="/">
     <img
       className="logo"
-      src="https://i.ibb.co/C5m0RYX/Logo.png" 
+      src="https://i.ibb.co/rHd4mYD/Logo.png" 
       alt="Foodie Flow Logo"
       title="Foodie Flow Logo"
     />
