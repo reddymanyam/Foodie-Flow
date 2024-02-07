@@ -51,3 +51,9 @@ Parcel comes with a built-in development server that supports hot module replace
 
 
 #The application will be available at http://localhost:1234/
+
+## The screenshots of this webpage will looks like below
+<img width="947" alt="Screenshot 2024-02-08 013029" src="https://github.com/reddymanyam/Foodie-Flow/assets/142713295/50f30aa5-b07e-4890-931e-d6412ec91377">
+<img width="943" alt="Screenshot 2024-02-08 013127" src="https://github.com/reddymanyam/Foodie-Flow/assets/142713295/1efc6958-fb23-423c-b62e-ef9325e83f1b">
+
+
