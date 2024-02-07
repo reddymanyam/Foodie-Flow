@@ -49,8 +49,5 @@ Parcel comes with a built-in development server that supports hot module replace
 - `useEffect`: Handles side effects and lifecycle events
 - `useParams`: Extracts parameters from React Router
 
-### The final result of this page screenshot are below:
-<img width="909" alt="Screenshot 2023-11-10 164241" src="https://github.com/reddymanyam/Foodie-Flow/assets/142713295/ce00ddb6-06e6-4d1a-9540-3e615b594bab">
-<img width="944" alt="Screenshot 2023-12-04 140148" src="https://github.com/reddymanyam/Foodie-Flow/assets/142713295/505bd80c-ed96-4c7b-9a32-a21a1366bb18">
-<img width="939" alt="Screenshot 2023-12-04 140234" src="https://github.com/reddymanyam/Foodie-Flow/assets/142713295/fc224093-bb82-4e08-b98d-068b077e95ae">
 
+#The application will be available at http://localhost:1234/
